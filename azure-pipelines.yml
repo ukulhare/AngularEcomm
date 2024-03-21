@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: windows10
+  vmImage: WINDOWS10
 
 steps:
 - task: NodeTool@0
